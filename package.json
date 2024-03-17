@@ -1,0 +1,13 @@
+{
+  "name": "@soham/ui_blueprint",
+  "version": "0.0.1",
+  "description": "A personalised UI library.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "soham",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.2.66",
+    "typescript": "^5.4.2"
+  }
+}
