@@ -9,7 +9,7 @@
     "dist"
   ],
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/dalalsoham"
+    "registry": "https://npm.pkg.github.com/@dalalsoham"
   },
   "scripts": {
     "dev": "rollup -c --watch",
